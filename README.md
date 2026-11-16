@@ -1,6 +1,6 @@
 # Software Engineering Lab Submissions
 
-**Name:** Vishnu N Ajay
+**Name:** Vishnu Narayanan Ajay
 
 **SRN:** PES2UG24CS594
 
