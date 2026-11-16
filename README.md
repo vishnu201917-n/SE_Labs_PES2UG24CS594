@@ -1,7 +1,9 @@
 # Software Engineering Lab Submissions
 
 **Name:** Vishnu N Ajay
+
 **SRN:** PES2UG24CS594
+
 **Section:** J
 
 This repository contains the submissions for all 7 Software Engineering labs.
